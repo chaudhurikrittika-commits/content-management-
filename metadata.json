@@ -1,0 +1,6 @@
+{
+  "name": "OmniVibe Creator Studio",
+  "description": "Multi-platform social media command center with unified analytics, automated scheduling, brand collabs CRM, Gemini-powered engagement strategy, E2EE vault, and MFA security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
